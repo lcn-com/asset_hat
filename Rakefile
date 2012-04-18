@@ -1,6 +1,5 @@
 require 'rake/testtask'
-# require 'rake/rdoctask'
-require 'hanna/rdoctask'
+require 'rdoc/task'
 
 begin
   require 'jeweler'
